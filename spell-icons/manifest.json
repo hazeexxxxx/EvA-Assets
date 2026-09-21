@@ -1,0 +1,89 @@
+{
+  "source": "https://mobile-legends.fandom.com/wiki/Battle_spells",
+  "spells": [
+    {
+      "spell_id": 20150,
+      "name": "Execute",
+      "filename": "Execute.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/b/b6/Execute.png/revision/latest?cb=20220714103406",
+      "path": "assets/spell-icons/20150_Execute.png"
+    },
+    {
+      "spell_id": 20020,
+      "name": "Retribution",
+      "filename": "Retribution.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/f/fb/Retribution.png/revision/latest?cb=20220714103440",
+      "path": "assets/spell-icons/20020_Retribution.png"
+    },
+    {
+      "spell_id": 20030,
+      "name": "Inspire",
+      "filename": "Inspire.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/c/c4/Inspire.png/revision/latest?cb=20220714103424",
+      "path": "assets/spell-icons/20030_Inspire.png"
+    },
+    {
+      "spell_id": 20040,
+      "name": "Sprint",
+      "filename": "Sprint.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/b/bb/Sprint.png/revision/latest?cb=20220714103448",
+      "path": "assets/spell-icons/20040_Sprint.png"
+    },
+    {
+      "spell_id": 20050,
+      "name": "Revitalize",
+      "filename": "Revitalize.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/f/f9/Revitalize.png/revision/latest?cb=20210912083310",
+      "path": "assets/spell-icons/20050_Revitalize.png"
+    },
+    {
+      "spell_id": 20060,
+      "name": "Aegis",
+      "filename": "Aegis.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/e/e5/Aegis.png/revision/latest?cb=20220714103353",
+      "path": "assets/spell-icons/20060_Aegis.png"
+    },
+    {
+      "spell_id": 20070,
+      "name": "Petrify",
+      "filename": "Petrify.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/6/6d/Petrify.png/revision/latest?cb=20210818141936",
+      "path": "assets/spell-icons/20070_Petrify.png"
+    },
+    {
+      "spell_id": 20080,
+      "name": "Purify",
+      "filename": "Purify.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/2/22/Purify.png/revision/latest?cb=20220714103432",
+      "path": "assets/spell-icons/20080_Purify.png"
+    },
+    {
+      "spell_id": 20140,
+      "name": "Flameshot",
+      "filename": "Flameshot.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/f/f2/Flameshot.png/revision/latest?cb=20211203154737",
+      "path": "assets/spell-icons/20140_Flameshot.png"
+    },
+    {
+      "spell_id": 20100,
+      "name": "Flicker",
+      "filename": "Flicker.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/1/1e/Flicker.png/revision/latest?cb=20210818154536",
+      "path": "assets/spell-icons/20100_Flicker.png"
+    },
+    {
+      "spell_id": 20160,
+      "name": "Arrival",
+      "filename": "Arrival.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/3/33/Arrival.png/revision/latest?cb=20210912082709",
+      "path": "assets/spell-icons/20160_Arrival.png"
+    },
+    {
+      "spell_id": 20190,
+      "name": "Vengeance",
+      "filename": "Vengeance.png",
+      "url": "https://images.wikia.nocookie.net/mobile-legends/images/8/85/Vengeance.png/revision/latest?cb=20210912082750",
+      "path": "assets/spell-icons/20190_Vengeance.png"
+    }
+  ]
+}

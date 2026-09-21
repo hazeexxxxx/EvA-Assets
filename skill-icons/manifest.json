@@ -1,0 +1,3625 @@
+{
+  "source": "https://mobile-legends.fandom.com/wiki/List_of_heroes",
+  "generated_by": "tools/download_skill_icons.py",
+  "heroes": [
+    {
+      "hero_id": 1,
+      "name": "Miya",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Moon Arrow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Moon_Arrow.png/revision/latest?cb=20220302071842",
+          "path": "assets/skill-icons/11/011_1_Moon_Arrow.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Arrow of Eclipse.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Arrow_of_Eclipse.png/revision/latest?cb=20220302071714",
+          "path": "assets/skill-icons/11/011_2_Arrow_of_Eclipse.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Hidden Moonlight.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hidden_Moonlight.png/revision/latest?cb=20220302071615",
+          "path": "assets/skill-icons/11/011_4_Hidden_Moonlight.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 2,
+      "name": "Balmond",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Soul Lock.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Soul_Lock.png/revision/latest?cb=20220624121809",
+          "path": "assets/skill-icons/21/021_1_Soul_Lock.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Cyclone Sweep.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Cyclone_Sweep.png/revision/latest?cb=20220624121821",
+          "path": "assets/skill-icons/21/021_2_Cyclone_Sweep.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Lethal Counter.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Lethal_Counter.png/revision/latest?cb=20220624121847",
+          "path": "assets/skill-icons/21/021_4_Lethal_Counter.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 3,
+      "name": "Saber",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Orbiting Swords.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Orbiting_Swords.png/revision/latest?cb=20201214101424",
+          "path": "assets/skill-icons/31/031_1_Orbiting_Swords.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Charge.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Charge.png/revision/latest?cb=20200718155500",
+          "path": "assets/skill-icons/31/031_2_Charge.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Triple Sweep.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Triple_Sweep.png/revision/latest?cb=20200718160427",
+          "path": "assets/skill-icons/31/031_4_Triple_Sweep.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 4,
+      "name": "Alice",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Crimson Gleam.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Crimson_Gleam.png/revision/latest?cb=20250917073509",
+          "path": "assets/skill-icons/41/041_1_Crimson_Gleam.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Doom Waltz.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Doom_Waltz.png/revision/latest?cb=20250917073510",
+          "path": "assets/skill-icons/41/041_2_Doom_Waltz.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Throne of Ruin.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Throne_of_Ruin.png/revision/latest?cb=20250917073511",
+          "path": "assets/skill-icons/41/041_4_Throne_of_Ruin.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 5,
+      "name": "Nana",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Magic Boomerang.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Magic_Boomerang.png/revision/latest?cb=20210924003015",
+          "path": "assets/skill-icons/51/051_1_Magic_Boomerang.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Molina Smooch.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Molina_Smooch.png/revision/latest?cb=20210924002930",
+          "path": "assets/skill-icons/51/051_2_Molina_Smooch.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Molina Blitz.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Molina_Blitz.png/revision/latest?cb=20210924002855",
+          "path": "assets/skill-icons/51/051_4_Molina_Blitz.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 6,
+      "name": "Tigreal",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Attack Wave.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Attack_Wave.png/revision/latest?cb=20250918045844",
+          "path": "assets/skill-icons/61/061_1_Attack_Wave.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Sacred Hammer.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Sacred_Hammer.png/revision/latest?cb=20250918045909",
+          "path": "assets/skill-icons/61/061_2_Sacred_Hammer.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Implosion.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Implosion.png/revision/latest?cb=20250918045911",
+          "path": "assets/skill-icons/61/061_4_Implosion.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 7,
+      "name": "Alucard",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Groundsplitter.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Groundsplitter.png/revision/latest?cb=20200718155948",
+          "path": "assets/skill-icons/71/071_1_Groundsplitter.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Whirling Smash.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Whirling_Smash.png/revision/latest?cb=20211216232613",
+          "path": "assets/skill-icons/71/071_2_Whirling_Smash.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Fission Wave.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Fission_Wave.png/revision/latest?cb=20211216232655",
+          "path": "assets/skill-icons/71/071_4_Fission_Wave.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 8,
+      "name": "Karina",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Dance of Blades.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Dance_of_Blades.png/revision/latest?cb=20220220014511",
+          "path": "assets/skill-icons/81/081_1_Dance_of_Blades.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Dance of Death.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Dance_of_Death.png/revision/latest?cb=20210808074021",
+          "path": "assets/skill-icons/81/081_2_Dance_of_Death.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Shadow Assault.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Shadow_Assault.png/revision/latest?cb=20210808074105",
+          "path": "assets/skill-icons/81/081_4_Shadow_Assault.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 9,
+      "name": "Akai",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Headbutt.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Headbutt.png/revision/latest?cb=20220807024902",
+          "path": "assets/skill-icons/91/091_1_Headbutt.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Body Slam.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Body_Slam.png/revision/latest?cb=20220807024854",
+          "path": "assets/skill-icons/91/091_2_Body_Slam.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Heavy Spin.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Heavy_Spin.png/revision/latest?cb=20220807024909",
+          "path": "assets/skill-icons/91/091_4_Heavy_Spin.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 10,
+      "name": "Franco",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Iron Hook.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Iron_Hook.png/revision/latest?cb=20211208235153",
+          "path": "assets/skill-icons/101/101_1_Iron_Hook.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Fury Shock.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Fury_Shock.png/revision/latest?cb=20211208235201",
+          "path": "assets/skill-icons/101/101_2_Fury_Shock.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Bloody Hunt.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Bloody_Hunt.png/revision/latest?cb=20211208235209",
+          "path": "assets/skill-icons/101/101_4_Bloody_Hunt.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 11,
+      "name": "Bane",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Crab Claw Cannon.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e5/Crab_Claw_Cannon.png/revision/latest?cb=20210519073958",
+          "path": "assets/skill-icons/111/111_1_Crab_Claw_Cannon.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ale.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Ale.png/revision/latest?cb=20210519074017",
+          "path": "assets/skill-icons/111/111_2_Ale.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Deadly Catch.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Deadly_Catch.png/revision/latest?cb=20210519074033",
+          "path": "assets/skill-icons/111/111_4_Deadly_Catch.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 12,
+      "name": "Bruno",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Volley Shot.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Volley_Shot.png/revision/latest?cb=20260916132628",
+          "path": "assets/skill-icons/121/121_1_Volley_Shot.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Slide.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Slide.png/revision/latest?cb=20260916132627",
+          "path": "assets/skill-icons/121/121_2_Slide.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Worldie.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Worldie.png/revision/latest?cb=20260916132626",
+          "path": "assets/skill-icons/121/121_4_Worldie.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 13,
+      "name": "Clint",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Quick Draw.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Quick_Draw.png/revision/latest?cb=20260918135145",
+          "path": "assets/skill-icons/131/131_1_Quick_Draw.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Trapping Recoil.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Trapping_Recoil.png/revision/latest?cb=20260918135302",
+          "path": "assets/skill-icons/131/131_2_Trapping_Recoil.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Grenade Bombardment.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Grenade_Bombardment.png/revision/latest?cb=20260918135404",
+          "path": "assets/skill-icons/131/131_4_Grenade_Bombardment.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 14,
+      "name": "Rafaela",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Light of Retribution.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Light_of_Retribution.png/revision/latest?cb=20240118091251",
+          "path": "assets/skill-icons/141/141_1_Light_of_Retribution.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Holy Healing.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Holy_Healing.png/revision/latest?cb=20200917011935",
+          "path": "assets/skill-icons/141/141_2_Holy_Healing.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Holy Baptism.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Holy_Baptism.png/revision/latest?cb=20200917011934",
+          "path": "assets/skill-icons/141/141_4_Holy_Baptism.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 15,
+      "name": "Eudora",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Forked Lightning.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Forked_Lightning.png/revision/latest?cb=20260129103509",
+          "path": "assets/skill-icons/151/151_1_Forked_Lightning.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ball Lightning.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Ball_Lightning.png/revision/latest?cb=20260129103506",
+          "path": "assets/skill-icons/151/151_2_Ball_Lightning.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Thunder's Wrath.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Thunder%27s_Wrath.png/revision/latest?cb=20260129103512",
+          "path": "assets/skill-icons/151/151_4_Thunder_s_Wrath.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 16,
+      "name": "Zilong",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Spear Flip.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Spear_Flip.png/revision/latest?cb=20210903165308",
+          "path": "assets/skill-icons/161/161_1_Spear_Flip.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Spear Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Spear_Strike.png/revision/latest?cb=20210903165358",
+          "path": "assets/skill-icons/161/161_2_Spear_Strike.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Supreme Warrior.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Supreme_Warrior.png/revision/latest?cb=20210903165435",
+          "path": "assets/skill-icons/161/161_4_Supreme_Warrior.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 17,
+      "name": "Fanny",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Tornado Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Tornado_Strike.png/revision/latest?cb=20211205125011",
+          "path": "assets/skill-icons/171/171_1_Tornado_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Steel Cable.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Steel_Cable.png/revision/latest?cb=20211205125019",
+          "path": "assets/skill-icons/171/171_2_Steel_Cable.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Cut Throat.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Cut_Throat.png/revision/latest?cb=20211205125029",
+          "path": "assets/skill-icons/171/171_4_Cut_Throat.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 18,
+      "name": "Layla",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Malefic Bomb.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Malefic_Bomb.png/revision/latest?cb=20220613134304",
+          "path": "assets/skill-icons/181/181_1_Malefic_Bomb.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Void Projectile.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Void_Projectile.png/revision/latest?cb=20220613134332",
+          "path": "assets/skill-icons/181/181_2_Void_Projectile.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Destruction Rush.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Destruction_Rush.png/revision/latest?cb=20220613134348",
+          "path": "assets/skill-icons/181/181_4_Destruction_Rush.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 19,
+      "name": "Minotaur",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Despair Stomp.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Despair_Stomp.png/revision/latest?cb=20210616060356",
+          "path": "assets/skill-icons/191/191_1_Despair_Stomp.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Motivation Rage.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Motivation_Rage.png/revision/latest?cb=20210616060342",
+          "path": "assets/skill-icons/191/191_2_Motivation_Rage.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Minoan Fury.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Minoan_Fury.png/revision/latest?cb=20210616060308",
+          "path": "assets/skill-icons/191/191_4_Minoan_Fury.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 20,
+      "name": "Lolita",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Power Charge.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Power_Charge.png/revision/latest?cb=20250917083732",
+          "path": "assets/skill-icons/201/201_1_Power_Charge.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Guardian's Reflection.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Guardian%27s_Reflection.png/revision/latest?cb=20250917083743",
+          "path": "assets/skill-icons/201/201_2_Guardian_s_Reflection.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Noumenon Blast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Noumenon_Blast.png/revision/latest?cb=20250917083754",
+          "path": "assets/skill-icons/201/201_4_Noumenon_Blast.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 21,
+      "name": "Hayabusa",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Ninjutsu Phantom Shuriken.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Ninjutsu_Phantom_Shuriken.png/revision/latest?cb=20210930072401",
+          "path": "assets/skill-icons/211/211_1_Ninjutsu_Phantom_Shuriken.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ninjutsu Quad Shadow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Ninjutsu_Quad_Shadow.png/revision/latest?cb=20210930072410",
+          "path": "assets/skill-icons/211/211_2_Ninjutsu_Quad_Shadow.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Ougi Shadow Kill.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Ougi_Shadow_Kill.png/revision/latest?cb=20210930072425",
+          "path": "assets/skill-icons/211/211_4_Ougi_Shadow_Kill.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 22,
+      "name": "Freya",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Leap of Faith.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Leap_of_Faith.png/revision/latest?cb=20251110105717",
+          "path": "assets/skill-icons/221/221_1_Leap_of_Faith.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Valkyrie Slash.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Valkyrie_Slash.png/revision/latest?cb=20251110105436",
+          "path": "assets/skill-icons/221/221_2_Valkyrie_Slash.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Valkyrie Descent.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Valkyrie_Descent.png/revision/latest?cb=20251110105720",
+          "path": "assets/skill-icons/221/221_4_Valkyrie_Descent.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 23,
+      "name": "Gord",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Mystic Projectile.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Mystic_Projectile.png/revision/latest?cb=20171023001237",
+          "path": "assets/skill-icons/231/231_1_Mystic_Projectile.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Mystic Injunction.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Mystic_Injunction.png/revision/latest?cb=20171023001345",
+          "path": "assets/skill-icons/231/231_2_Mystic_Injunction.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Mystic Gush.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Mystic_Gush.png/revision/latest?cb=20171023001719",
+          "path": "assets/skill-icons/231/231_4_Mystic_Gush.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 24,
+      "name": "Natalia",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Claw Dash.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Claw_Dash.png/revision/latest?cb=20210816210737",
+          "path": "assets/skill-icons/241/241_1_Claw_Dash.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Smoke Bomb.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Smoke_Bomb.png/revision/latest?cb=20210816210831",
+          "path": "assets/skill-icons/241/241_2_Smoke_Bomb.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "The Hunt.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/The_Hunt.png/revision/latest?cb=20210816210938",
+          "path": "assets/skill-icons/241/241_4_The_Hunt.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 25,
+      "name": "Kagura",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Seimei Umbrella Open.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Seimei_Umbrella_Open.png/revision/latest?cb=20210930071832",
+          "path": "assets/skill-icons/251/251_1_Seimei_Umbrella_Open.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Rasho Umbrella Flee.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Rasho_Umbrella_Flee.png/revision/latest?cb=20210930071843",
+          "path": "assets/skill-icons/251/251_2_Rasho_Umbrella_Flee.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Yin Yang Overturn.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Yin_Yang_Overturn.png/revision/latest?cb=20210930071853",
+          "path": "assets/skill-icons/251/251_4_Yin_Yang_Overturn.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 26,
+      "name": "Chou",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Jeet Kune Do.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Jeet_Kune_Do.png/revision/latest?cb=20210808080309",
+          "path": "assets/skill-icons/261/261_1_Jeet_Kune_Do.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Shunpo.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Shunpo.png/revision/latest?cb=20210808080502",
+          "path": "assets/skill-icons/261/261_2_Shunpo.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "The Way of Dragon.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/The_Way_of_Dragon.png/revision/latest?cb=20210808080412",
+          "path": "assets/skill-icons/261/261_4_The_Way_of_Dragon.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 27,
+      "name": "Sun",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Endless Variety.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Endless_Variety.png/revision/latest?cb=20240208125547",
+          "path": "assets/skill-icons/271/271_1_Endless_Variety.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Swift Exchange.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Swift_Exchange.png/revision/latest?cb=20240208125456",
+          "path": "assets/skill-icons/271/271_2_Swift_Exchange.png"
+        },
+        {
+          "slot": 3,
+          "label": "Skill 3",
+          "filename": "Instantaneous Move.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Instantaneous_Move.png/revision/latest?cb=20251110075150",
+          "path": "assets/skill-icons/271/271_3_Instantaneous_Move.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Clone Techniques.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Clone_Techniques.png/revision/latest?cb=20240208125649",
+          "path": "assets/skill-icons/271/271_4_Clone_Techniques.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 28,
+      "name": "Alpha",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Rotary Impact.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Rotary_Impact.png/revision/latest?cb=20210616065548",
+          "path": "assets/skill-icons/281/281_1_Rotary_Impact.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Force Swing.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Force_Swing.png/revision/latest?cb=20210616065559",
+          "path": "assets/skill-icons/281/281_2_Force_Swing.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Spear of Alpha.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Spear_of_Alpha.png/revision/latest?cb=20210616065612",
+          "path": "assets/skill-icons/281/281_4_Spear_of_Alpha.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 29,
+      "name": "Ruby",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Be good!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Be_good%21.png/revision/latest?cb=20210816063353",
+          "path": "assets/skill-icons/291/291_1_Be_good_.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Don't run, Wolf King!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Don%27t_run%2C_Wolf_King%21.png/revision/latest?cb=20210816063441",
+          "path": "assets/skill-icons/291/291_2_Don_t_run_Wolf_King_.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "I'm offended!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/I%27m_offended%21.png/revision/latest?cb=20210816063549",
+          "path": "assets/skill-icons/291/291_4_I_m_offended_.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 30,
+      "name": "Yi Sun-shin",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Traceless.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Traceless.png/revision/latest?cb=20260905054849",
+          "path": "assets/skill-icons/301/301_1_Traceless.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Blood Floods.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Blood_Floods.png/revision/latest?cb=20260905054911",
+          "path": "assets/skill-icons/301/301_2_Blood_Floods.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Mountain Shocker.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Mountain_Shocker.png/revision/latest?cb=20260905055001",
+          "path": "assets/skill-icons/301/301_4_Mountain_Shocker.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 31,
+      "name": "Moskov",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Abyss Walker.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Abyss_Walker.png/revision/latest?cb=20231110025034",
+          "path": "assets/skill-icons/311/311_1_Abyss_Walker.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Spear of Misery.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Spear_of_Misery.png/revision/latest?cb=20231110025107",
+          "path": "assets/skill-icons/311/311_2_Spear_of_Misery.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Spear of Destruction.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Spear_of_Destruction.png/revision/latest?cb=20231110025126",
+          "path": "assets/skill-icons/311/311_4_Spear_of_Destruction.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 32,
+      "name": "Johnson",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Impact Wrench.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Impact_Wrench.png/revision/latest?cb=20231231123358",
+          "path": "assets/skill-icons/321/321_1_Impact_Wrench.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Electromagnetic Waves.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Electromagnetic_Waves.png/revision/latest?cb=20231231123411",
+          "path": "assets/skill-icons/321/321_2_Electromagnetic_Waves.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Full Throttle.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Full_Throttle.png/revision/latest?cb=20231231123508",
+          "path": "assets/skill-icons/321/321_4_Full_Throttle.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 33,
+      "name": "Cyclops",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Stardust Shock.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Stardust_Shock.png/revision/latest?cb=20171009130518",
+          "path": "assets/skill-icons/331/331_1_Stardust_Shock.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Planets Attack.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Planets_Attack.png/revision/latest?cb=20171009130630",
+          "path": "assets/skill-icons/331/331_2_Planets_Attack.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Star Power Lockdown.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Star_Power_Lockdown.png/revision/latest?cb=20171009130650",
+          "path": "assets/skill-icons/331/331_4_Star_Power_Lockdown.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 34,
+      "name": "Estes",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Moonlight Immersion.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Moonlight_Immersion.png/revision/latest?cb=20220404063857",
+          "path": "assets/skill-icons/341/341_1_Moonlight_Immersion.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Domain of Moon Goddess.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Domain_of_Moon_Goddess.png/revision/latest?cb=20220404064002",
+          "path": "assets/skill-icons/341/341_2_Domain_of_Moon_Goddess.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Blessing of Moon Goddess.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Blessing_of_Moon_Goddess.png/revision/latest?cb=20220404064022",
+          "path": "assets/skill-icons/341/341_4_Blessing_of_Moon_Goddess.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 35,
+      "name": "Hilda",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Combat Ritual.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Combat_Ritual.png/revision/latest?cb=20210315234429",
+          "path": "assets/skill-icons/351/351_1_Combat_Ritual.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Art of Hunting.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Art_of_Hunting.png/revision/latest?cb=20210315234319",
+          "path": "assets/skill-icons/351/351_2_Art_of_Hunting.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Power of Wildness.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Power_of_Wildness.png/revision/latest?cb=20210315234351",
+          "path": "assets/skill-icons/351/351_4_Power_of_Wildness.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 36,
+      "name": "Aurora",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Hailstone Blast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hailstone_Blast.png/revision/latest?cb=20240207104504",
+          "path": "assets/skill-icons/361/361_1_Hailstone_Blast.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Frosty Breeze.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Frosty_Breeze.png/revision/latest?cb=20240207104501",
+          "path": "assets/skill-icons/361/361_2_Frosty_Breeze.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Frigid Glacier.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Frigid_Glacier.png/revision/latest?cb=20240207104457",
+          "path": "assets/skill-icons/361/361_4_Frigid_Glacier.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 37,
+      "name": "Lapu-Lapu",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Justice Blades.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Justice_Blades.png/revision/latest?cb=20210930071251",
+          "path": "assets/skill-icons/371/371_1_Justice_Blades.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Jungle Warrior.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Jungle_Warrior.png/revision/latest?cb=20210930071310",
+          "path": "assets/skill-icons/371/371_2_Jungle_Warrior.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Bravest Fighter.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Bravest_Fighter.png/revision/latest?cb=20210930071356",
+          "path": "assets/skill-icons/371/371_4_Bravest_Fighter.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 38,
+      "name": "Vexana",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Deathly Grasp.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Deathly_Grasp.png/revision/latest?cb=20241018163631",
+          "path": "assets/skill-icons/381/381_1_Deathly_Grasp.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Cursed Blast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Cursed_Blast.png/revision/latest?cb=20241018163628",
+          "path": "assets/skill-icons/381/381_2_Cursed_Blast.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Eternal Guard.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Eternal_Guard.png/revision/latest?cb=20241018163624",
+          "path": "assets/skill-icons/381/381_4_Eternal_Guard.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 39,
+      "name": "Roger",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Open Fire.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Open_Fire.png/revision/latest?cb=20210905105026",
+          "path": "assets/skill-icons/391/391_1_Open_Fire.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Hunter's Steps.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hunter%27s_Steps.png/revision/latest?cb=20210905104945",
+          "path": "assets/skill-icons/391/391_2_Hunter_s_Steps.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Wolf Transformation.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Wolf_Transformation.png/revision/latest?cb=20210905104842",
+          "path": "assets/skill-icons/391/391_4_Wolf_Transformation.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 40,
+      "name": "Karrie",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Spinning Lightwheel.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Spinning_Lightwheel.png/revision/latest?cb=20180524145319",
+          "path": "assets/skill-icons/401/401_1_Spinning_Lightwheel.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Phantom Step.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Phantom_Step.png/revision/latest?cb=20180524151835",
+          "path": "assets/skill-icons/401/401_2_Phantom_Step.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Speedy Lightwheel.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Speedy_Lightwheel.png/revision/latest?cb=20180524151018",
+          "path": "assets/skill-icons/401/401_4_Speedy_Lightwheel.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 41,
+      "name": "Gatotkaca",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Blast Iron Fist.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Blast_Iron_Fist.png/revision/latest?cb=20210627025912",
+          "path": "assets/skill-icons/411/411_1_Blast_Iron_Fist.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Unbreakable.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Unbreakable.png/revision/latest?cb=20171010092652",
+          "path": "assets/skill-icons/411/411_2_Unbreakable.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Avatar of the Guardian.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Avatar_of_the_Guardian.png/revision/latest?cb=20171010092756",
+          "path": "assets/skill-icons/411/411_4_Avatar_of_the_Guardian.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 42,
+      "name": "Harley",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Poker Trick.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Poker_Trick.png/revision/latest?cb=20210802144324",
+          "path": "assets/skill-icons/421/421_1_Poker_Trick.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Space Escape.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Space_Escape.png/revision/latest?cb=20210802144227",
+          "path": "assets/skill-icons/421/421_2_Space_Escape.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Deadly Magic.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Deadly_Magic.png/revision/latest?cb=20210802144459",
+          "path": "assets/skill-icons/421/421_4_Deadly_Magic.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 43,
+      "name": "Irithel",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Strafe.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Strafe.png/revision/latest?cb=20260618090444",
+          "path": "assets/skill-icons/431/431_1_Strafe.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Force of the Queen.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Force_of_the_Queen.png/revision/latest?cb=20260618090443",
+          "path": "assets/skill-icons/431/431_2_Force_of_the_Queen.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Heavy Crossbow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Heavy_Crossbow.png/revision/latest?cb=20260618090442",
+          "path": "assets/skill-icons/431/431_4_Heavy_Crossbow.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 44,
+      "name": "Grock",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Mighty Swing.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Mighty_Swing.png/revision/latest?cb=20250811073747",
+          "path": "assets/skill-icons/441/441_1_Mighty_Swing.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Earthen Rampart.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Earthen_Rampart.png/revision/latest?cb=20250811073745",
+          "path": "assets/skill-icons/441/441_2_Earthen_Rampart.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Tectonic Charge.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Tectonic_Charge.png/revision/latest?cb=20250811073748",
+          "path": "assets/skill-icons/441/441_4_Tectonic_Charge.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 45,
+      "name": "Argus",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Demonic Grip.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Demonic_Grip.png/revision/latest?cb=20210313153103",
+          "path": "assets/skill-icons/451/451_1_Demonic_Grip.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Meteoric Sword.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Meteoric_Sword.png/revision/latest?cb=20210313153044",
+          "path": "assets/skill-icons/451/451_2_Meteoric_Sword.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Eternal Evil.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Eternal_Evil.png/revision/latest?cb=20210313152940",
+          "path": "assets/skill-icons/451/451_4_Eternal_Evil.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 46,
+      "name": "Odette",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Avian Authority.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Avian_Authority.png/revision/latest?cb=20210930073008",
+          "path": "assets/skill-icons/461/461_1_Avian_Authority.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Blue Nova.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Blue_Nova.png/revision/latest?cb=20210930073018",
+          "path": "assets/skill-icons/461/461_2_Blue_Nova.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Swan Song.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Swan_Song.png/revision/latest?cb=20210930073037",
+          "path": "assets/skill-icons/461/461_4_Swan_Song.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 47,
+      "name": "Lancelot",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Puncture.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Puncture.png/revision/latest?cb=20210930072740",
+          "path": "assets/skill-icons/471/471_1_Puncture.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Thorned Rose.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Thorned_Rose.png/revision/latest?cb=20210930072752",
+          "path": "assets/skill-icons/471/471_2_Thorned_Rose.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Phantom Execution.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Phantom_Execution.png/revision/latest?cb=20210930072804",
+          "path": "assets/skill-icons/471/471_4_Phantom_Execution.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 48,
+      "name": "Diggie",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Auto Alarm Bomb.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Auto_Alarm_Bomb.png/revision/latest?cb=20211002145736",
+          "path": "assets/skill-icons/481/481_1_Auto_Alarm_Bomb.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Reverse Time.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Reverse_Time.png/revision/latest?cb=20211002145746",
+          "path": "assets/skill-icons/481/481_2_Reverse_Time.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Time Journey.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Time_Journey.png/revision/latest?cb=20211002145917",
+          "path": "assets/skill-icons/481/481_4_Time_Journey.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 49,
+      "name": "Hylos",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Law and Order.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Law_and_Order.png/revision/latest?cb=20171201071413",
+          "path": "assets/skill-icons/491/491_1_Law_and_Order.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ring of Punishment.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Ring_of_Punishment.png/revision/latest?cb=20171201070705",
+          "path": "assets/skill-icons/491/491_2_Ring_of_Punishment.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Glorious Pathway.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Glorious_Pathway.png/revision/latest?cb=20171201071444",
+          "path": "assets/skill-icons/491/491_4_Glorious_Pathway.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 50,
+      "name": "Zhask",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Nightmaric Spawn.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Nightmaric_Spawn.png/revision/latest?cb=20220203075736",
+          "path": "assets/skill-icons/501/501_1_Nightmaric_Spawn.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Mind Eater.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Mind_Eater.png/revision/latest?cb=20220203075810",
+          "path": "assets/skill-icons/501/501_2_Mind_Eater.png"
+        },
+        {
+          "slot": 3,
+          "label": "Skill 3",
+          "filename": "Hive Clones.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hive_Clones.png/revision/latest?cb=20220203075941",
+          "path": "assets/skill-icons/501/501_3_Hive_Clones.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Dominator's Descent.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Dominator%27s_Descent.png/revision/latest?cb=20220203080019",
+          "path": "assets/skill-icons/501/501_4_Dominator_s_Descent.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 51,
+      "name": "Helcurt",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Hidden Terror.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hidden_Terror.png/revision/latest?cb=20240605110545",
+          "path": "assets/skill-icons/511/511_1_Hidden_Terror.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Deadly Stinger.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Deadly_Stinger.png/revision/latest?cb=20240605110608",
+          "path": "assets/skill-icons/511/511_2_Deadly_Stinger.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Dark Night Falls.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Dark_Night_Falls.png/revision/latest?cb=20240605110619",
+          "path": "assets/skill-icons/511/511_4_Dark_Night_Falls.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 52,
+      "name": "Pharsa",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Curse of Crow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Curse_of_Crow.png/revision/latest?cb=20240122034020",
+          "path": "assets/skill-icons/521/521_1_Curse_of_Crow.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Energy Impact.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Energy_Impact.png/revision/latest?cb=20240122034024",
+          "path": "assets/skill-icons/521/521_2_Energy_Impact.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Feathered Air Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Feathered_Air_Strike.png/revision/latest?cb=20240122034028",
+          "path": "assets/skill-icons/521/521_4_Feathered_Air_Strike.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 53,
+      "name": "Lesley",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Master of Camouflage.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Master_of_Camouflage.png/revision/latest?cb=20220908163809",
+          "path": "assets/skill-icons/531/531_1_Master_of_Camouflage.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Tactical Grenade.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Tactical_Grenade.png/revision/latest?cb=20220908163815",
+          "path": "assets/skill-icons/531/531_2_Tactical_Grenade.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Ultimate Snipe.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Ultimate_Snipe.png/revision/latest?cb=20220908163825",
+          "path": "assets/skill-icons/531/531_4_Ultimate_Snipe.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 54,
+      "name": "Jawhead",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Smart Missiles.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Smart_Missiles.png/revision/latest?cb=20210930074500",
+          "path": "assets/skill-icons/541/541_1_Smart_Missiles.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ejector.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Ejector.png/revision/latest?cb=20210930074510",
+          "path": "assets/skill-icons/541/541_2_Ejector.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Unstoppable Force.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Unstoppable_Force.png/revision/latest?cb=20210930074522",
+          "path": "assets/skill-icons/541/541_4_Unstoppable_Force.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 55,
+      "name": "Angela",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Love Waves.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Love_Waves.png/revision/latest?cb=20210816223021",
+          "path": "assets/skill-icons/551/551_1_Love_Waves.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Puppet-on-a-String.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Puppet-on-a-String.png/revision/latest?cb=20210816223118",
+          "path": "assets/skill-icons/551/551_2_Puppet-on-a-String.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Heartguard.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Heartguard.png/revision/latest?cb=20210816223245",
+          "path": "assets/skill-icons/551/551_4_Heartguard.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 56,
+      "name": "Gusion",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Sword Spike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Sword_Spike.png/revision/latest?cb=20220908163717",
+          "path": "assets/skill-icons/561/561_1_Sword_Spike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Shadowblade Slaughter.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Shadowblade_Slaughter.png/revision/latest?cb=20220908163704",
+          "path": "assets/skill-icons/561/561_2_Shadowblade_Slaughter.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Incandescence.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Incandescence.png/revision/latest?cb=20220908163651",
+          "path": "assets/skill-icons/561/561_4_Incandescence.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 57,
+      "name": "Valir",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Burst Fireball.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Burst_Fireball.png/revision/latest?cb=20210903173909",
+          "path": "assets/skill-icons/571/571_1_Burst_Fireball.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Searing Torrent.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Searing_Torrent.png/revision/latest?cb=20210903173933",
+          "path": "assets/skill-icons/571/571_2_Searing_Torrent.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Vengeance Flame.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Vengeance_Flame.png/revision/latest?cb=20210903173958",
+          "path": "assets/skill-icons/571/571_4_Vengeance_Flame.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 58,
+      "name": "Martis",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Asura Aura.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Asura_Aura.png/revision/latest?cb=20231226165646",
+          "path": "assets/skill-icons/581/581_1_Asura_Aura.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Mortal Coil.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Mortal_Coil.png/revision/latest?cb=20231226165916",
+          "path": "assets/skill-icons/581/581_2_Mortal_Coil.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Decimation.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Decimation.png/revision/latest?cb=20231226170036",
+          "path": "assets/skill-icons/581/581_4_Decimation.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 59,
+      "name": "Uranus",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Ionic Edge.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Ionic_Edge.png/revision/latest?cb=20210903164010",
+          "path": "assets/skill-icons/591/591_1_Ionic_Edge.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Transcendent Ward.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Transcendent_Ward.png/revision/latest?cb=20210903164056",
+          "path": "assets/skill-icons/591/591_2_Transcendent_Ward.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Consecration.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Consecration.png/revision/latest?cb=20210903164156",
+          "path": "assets/skill-icons/591/591_4_Consecration.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 60,
+      "name": "Hanabi",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Ninjutsu Equinox.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Ninjutsu_Equinox.png/revision/latest?cb=20221217033128",
+          "path": "assets/skill-icons/601/601_1_Ninjutsu_Equinox.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ninjutsu Soul Scroll.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Ninjutsu_Soul_Scroll.png/revision/latest?cb=20221217033141",
+          "path": "assets/skill-icons/601/601_2_Ninjutsu_Soul_Scroll.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Forbidden Jutsu Higanbana.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Forbidden_Jutsu_Higanbana.png/revision/latest?cb=20221217033119",
+          "path": "assets/skill-icons/601/601_4_Forbidden_Jutsu_Higanbana.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 61,
+      "name": "Chang'e",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Starmoon Shockwave.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Starmoon_Shockwave.png/revision/latest?cb=20210816222224",
+          "path": "assets/skill-icons/611/611_1_Starmoon_Shockwave.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Crescent Moon.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Crescent_Moon.png/revision/latest?cb=20210816222319",
+          "path": "assets/skill-icons/611/611_2_Crescent_Moon.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Meteor Shower.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Meteor_Shower.png/revision/latest?cb=20210816222411",
+          "path": "assets/skill-icons/611/611_4_Meteor_Shower.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 62,
+      "name": "Kaja",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Ring of Order.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Ring_of_Order.png/revision/latest?cb=20260805103800",
+          "path": "assets/skill-icons/621/621_1_Ring_of_Order.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Soaring Wings.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Soaring_Wings.png/revision/latest?cb=20260805103801",
+          "path": "assets/skill-icons/621/621_2_Soaring_Wings.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Divine Binding.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Divine_Binding.png/revision/latest?cb=20260805103802",
+          "path": "assets/skill-icons/621/621_4_Divine_Binding.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 63,
+      "name": "Selena",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Abyssal Trap.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Abyssal_Trap.png/revision/latest?cb=20211108070434",
+          "path": "assets/skill-icons/631/631_1_Abyssal_Trap.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Abyssal Arrow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Abyssal_Arrow.png/revision/latest?cb=20211108070444",
+          "path": "assets/skill-icons/631/631_2_Abyssal_Arrow.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Primal Darkness.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Primal_Darkness.png/revision/latest?cb=20211108070514",
+          "path": "assets/skill-icons/631/631_4_Primal_Darkness.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 64,
+      "name": "Aldous",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Contract Soul Steal.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Contract_Soul_Steal.png/revision/latest?cb=20220201144201",
+          "path": "assets/skill-icons/641/641_1_Contract_Soul_Steal.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Contract Explosion.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Contract_Explosion.png/revision/latest?cb=20220201144246",
+          "path": "assets/skill-icons/641/641_2_Contract_Explosion.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Contract Chase Fate.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Contract_Chase_Fate.png/revision/latest?cb=20220201144314",
+          "path": "assets/skill-icons/641/641_4_Contract_Chase_Fate.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 65,
+      "name": "Claude",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Art of Thievery.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Art_of_Thievery.png/revision/latest?cb=20211205134839",
+          "path": "assets/skill-icons/651/651_1_Art_of_Thievery.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Battle Mirror Image.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Battle_Mirror_Image.png/revision/latest?cb=20211205134848",
+          "path": "assets/skill-icons/651/651_2_Battle_Mirror_Image.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Blazing Duet.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Blazing_Duet.png/revision/latest?cb=20211205134856",
+          "path": "assets/skill-icons/651/651_4_Blazing_Duet.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 66,
+      "name": "Vale",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Wind Blade.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Wind_Blade.png/revision/latest?cb=20250918050123",
+          "path": "assets/skill-icons/661/661_1_Wind_Blade.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Windblow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Windblow.png/revision/latest?cb=20250918050129",
+          "path": "assets/skill-icons/661/661_2_Windblow.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Windstorm.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Windstorm.png/revision/latest?cb=20250918050134",
+          "path": "assets/skill-icons/661/661_4_Windstorm.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 67,
+      "name": "Leomord",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Momentum.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Momentum.png/revision/latest?cb=20220628181142",
+          "path": "assets/skill-icons/671/671_1_Momentum.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Decimation Assault.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Decimation_Assault.png/revision/latest?cb=20220628181137",
+          "path": "assets/skill-icons/671/671_2_Decimation_Assault.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Phantom Steed.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Phantom_Steed.png/revision/latest?cb=20220628181153",
+          "path": "assets/skill-icons/671/671_4_Phantom_Steed.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 68,
+      "name": "Lunox",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Starlight Pulse.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Starlight_Pulse.png/revision/latest?cb=20210816211618",
+          "path": "assets/skill-icons/681/681_1_Starlight_Pulse.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Chaos Assault.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Chaos_Assault.png/revision/latest?cb=20210816211707",
+          "path": "assets/skill-icons/681/681_2_Chaos_Assault.png"
+        },
+        {
+          "slot": 3,
+          "label": "Skill 3",
+          "filename": "Cosmic Fission.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Cosmic_Fission.png/revision/latest?cb=20210816211823",
+          "path": "assets/skill-icons/681/681_3_Cosmic_Fission.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Order & Chaos.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Order_%26_Chaos.png/revision/latest?cb=20240208124046",
+          "path": "assets/skill-icons/681/681_4_Order_Chaos.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 69,
+      "name": "Hanzo",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Ninjutsu Demon Feast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Ninjutsu_Demon_Feast.png/revision/latest?cb=20250213043813",
+          "path": "assets/skill-icons/691/691_1_Ninjutsu_Demon_Feast.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ninjutsu Dark Mist.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Ninjutsu_Dark_Mist.png/revision/latest?cb=20250213043908",
+          "path": "assets/skill-icons/691/691_2_Ninjutsu_Dark_Mist.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Kinjutsu Pinnacle Ninja.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Kinjutsu_Pinnacle_Ninja.png/revision/latest?cb=20250213044240",
+          "path": "assets/skill-icons/691/691_4_Kinjutsu_Pinnacle_Ninja.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 70,
+      "name": "Belerick",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Ancient Seed.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Ancient_Seed.png/revision/latest?cb=20200529095427",
+          "path": "assets/skill-icons/701/701_1_Ancient_Seed.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Nature's Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Nature%27s_Strike.png/revision/latest?cb=20200529095248",
+          "path": "assets/skill-icons/701/701_2_Nature_s_Strike.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Wrath of Dryad.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Wrath_of_Dryad.png/revision/latest?cb=20200529095206",
+          "path": "assets/skill-icons/701/701_4_Wrath_of_Dryad.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 71,
+      "name": "Kimmy",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Anti-Grav Thruster.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Anti-Grav_Thruster.png/revision/latest?cb=20250423105752",
+          "path": "assets/skill-icons/711/711_1_Anti-Grav_Thruster.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Starlium Beam.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Starlium_Beam.png/revision/latest?cb=20250423105753",
+          "path": "assets/skill-icons/711/711_2_Starlium_Beam.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Traction Pulse.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Traction_Pulse.png/revision/latest?cb=20250423105754",
+          "path": "assets/skill-icons/711/711_4_Traction_Pulse.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 72,
+      "name": "Thamuz",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Molten Scythes.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Molten_Scythes.png/revision/latest?cb=20250917080550",
+          "path": "assets/skill-icons/721/721_1_Molten_Scythes.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Chasm Trample.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Chasm_Trample.png/revision/latest?cb=20250917080546",
+          "path": "assets/skill-icons/721/721_2_Chasm_Trample.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Cauterant Inferno.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Cauterant_Inferno.png/revision/latest?cb=20250917080545",
+          "path": "assets/skill-icons/721/721_4_Cauterant_Inferno.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 73,
+      "name": "Harith",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Synchro Fission.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Synchro_Fission.png/revision/latest?cb=20240123230739",
+          "path": "assets/skill-icons/731/731_1_Synchro_Fission.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Chrono Dash.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Chrono_Dash.png/revision/latest?cb=20240123230652",
+          "path": "assets/skill-icons/731/731_2_Chrono_Dash.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Zaman Force.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Zaman_Force.png/revision/latest?cb=20240123230545",
+          "path": "assets/skill-icons/731/731_4_Zaman_Force.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 74,
+      "name": "Minsitthar",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Spear of Glory.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Spear_of_Glory.png/revision/latest?cb=20230315070700",
+          "path": "assets/skill-icons/741/741_1_Spear_of_Glory.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Shield Assault.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Shield_Assault.png/revision/latest?cb=20230315070653",
+          "path": "assets/skill-icons/741/741_2_Shield_Assault.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "King's Calling.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/King%27s_Calling.png/revision/latest?cb=20230315070647",
+          "path": "assets/skill-icons/741/741_4_King_s_Calling.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 75,
+      "name": "Kadita",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Ocean Ode.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Ocean_Ode.png/revision/latest?cb=20210809092828",
+          "path": "assets/skill-icons/751/751_1_Ocean_Ode.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Breath of the Ocean.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Breath_of_the_Ocean.png/revision/latest?cb=20210809092915",
+          "path": "assets/skill-icons/751/751_2_Breath_of_the_Ocean.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Rough Waves.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Rough_Waves.png/revision/latest?cb=20210809093025",
+          "path": "assets/skill-icons/751/751_4_Rough_Waves.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 76,
+      "name": "Faramis",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Shadow Stampede.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Shadow_Stampede.png/revision/latest?cb=20220612054032",
+          "path": "assets/skill-icons/761/761_1_Shadow_Stampede.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Ghost Bursters.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Ghost_Bursters.png/revision/latest?cb=20220612054026",
+          "path": "assets/skill-icons/761/761_2_Ghost_Bursters.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Nether Realm.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Nether_Realm.png/revision/latest?cb=20260313084936",
+          "path": "assets/skill-icons/761/761_4_Nether_Realm.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 77,
+      "name": "Badang",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Fist Wind.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Fist_Wind.png/revision/latest?cb=20260919021046",
+          "path": "assets/skill-icons/771/771_1_Fist_Wind.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Fist Break.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Fist_Break.png/revision/latest?cb=20260919021121",
+          "path": "assets/skill-icons/771/771_2_Fist_Break.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Fist Crack.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Fist_Crack.png/revision/latest?cb=20260919021157",
+          "path": "assets/skill-icons/771/771_4_Fist_Crack.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 78,
+      "name": "Khufra",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Tyrant's Revenge.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Tyrant%27s_Revenge.png/revision/latest?cb=20240113140327",
+          "path": "assets/skill-icons/781/781_1_Tyrant_s_Revenge.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Bouncing Ball.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Bouncing_Ball.png/revision/latest?cb=20240113140156",
+          "path": "assets/skill-icons/781/781_2_Bouncing_Ball.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Tyrant's Rage.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Tyrant%27s_Rage.png/revision/latest?cb=20240113140253",
+          "path": "assets/skill-icons/781/781_4_Tyrant_s_Rage.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 79,
+      "name": "Granger",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Rhapsody.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Rhapsody.png/revision/latest?cb=20241107093851",
+          "path": "assets/skill-icons/791/791_1_Rhapsody.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Rondo.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Rondo.png/revision/latest?cb=20241107093903",
+          "path": "assets/skill-icons/791/791_2_Rondo.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Death Sonata.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Death_Sonata.png/revision/latest?cb=20241107093910",
+          "path": "assets/skill-icons/791/791_4_Death_Sonata.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 80,
+      "name": "Guinevere",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Energy Wave.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Energy_Wave.png/revision/latest?cb=20210808074449",
+          "path": "assets/skill-icons/801/801_1_Energy_Wave.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Spatial Migration.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Spatial_Migration.png/revision/latest?cb=20210808074631",
+          "path": "assets/skill-icons/801/801_2_Spatial_Migration.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Violet Requiem.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Violet_Requiem.png/revision/latest?cb=20210808074543",
+          "path": "assets/skill-icons/801/801_4_Violet_Requiem.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 81,
+      "name": "Esmeralda",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Frostmoon Shield.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Frostmoon_Shield.png/revision/latest?cb=20210808075630",
+          "path": "assets/skill-icons/811/811_1_Frostmoon_Shield.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Stardust Dance.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Stardust_Dance.png/revision/latest?cb=20210808075728",
+          "path": "assets/skill-icons/811/811_2_Stardust_Dance.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Falling Starmoon.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Falling_Starmoon.png/revision/latest?cb=20210808075820",
+          "path": "assets/skill-icons/811/811_4_Falling_Starmoon.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 82,
+      "name": "Terizla",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Revenge Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Revenge_Strike.png/revision/latest?cb=20220204074814",
+          "path": "assets/skill-icons/821/821_1_Revenge_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Execution Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Execution_Strike.png/revision/latest?cb=20220204074847",
+          "path": "assets/skill-icons/821/821_2_Execution_Strike.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Penalty Zone.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Penalty_Zone.png/revision/latest?cb=20220204074917",
+          "path": "assets/skill-icons/821/821_4_Penalty_Zone.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 83,
+      "name": "X.Borg",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Fire Missiles.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Fire_Missiles.png/revision/latest?cb=20220302070149",
+          "path": "assets/skill-icons/831/831_1_Fire_Missiles.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Fire Stake.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Fire_Stake.png/revision/latest?cb=20220302070221",
+          "path": "assets/skill-icons/831/831_2_Fire_Stake.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Last Insanity.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Last_Insanity.png/revision/latest?cb=20220302070257",
+          "path": "assets/skill-icons/831/831_4_Last_Insanity.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 84,
+      "name": "Ling",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Finch Poise.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Finch_Poise.png/revision/latest?cb=20240622134915",
+          "path": "assets/skill-icons/841/841_1_Finch_Poise.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Defiant Sword.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Defiant_Sword.png/revision/latest?cb=20240622134923",
+          "path": "assets/skill-icons/841/841_2_Defiant_Sword.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Tempest of Blades.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Tempest_of_Blades.png/revision/latest?cb=20240622134931",
+          "path": "assets/skill-icons/841/841_4_Tempest_of_Blades.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 85,
+      "name": "Dyrroth",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Burst Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Burst_Strike.png/revision/latest?cb=20250917081928",
+          "path": "assets/skill-icons/851/851_1_Burst_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Spectre Step.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Spectre_Step.png/revision/latest?cb=20250917081929",
+          "path": "assets/skill-icons/851/851_2_Spectre_Step.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Abysm Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Abysm_Strike.png/revision/latest?cb=20250917081927",
+          "path": "assets/skill-icons/851/851_4_Abysm_Strike.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 86,
+      "name": "Lylia",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Magic Shockwave.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Magic_Shockwave.png/revision/latest?cb=20210809093754",
+          "path": "assets/skill-icons/861/861_1_Magic_Shockwave.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Shadow Energy.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Shadow_Energy.png/revision/latest?cb=20210809093832",
+          "path": "assets/skill-icons/861/861_2_Shadow_Energy.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Black Shoes.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Black_Shoes.png/revision/latest?cb=20210809093908",
+          "path": "assets/skill-icons/861/861_4_Black_Shoes.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 87,
+      "name": "Baxia",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Shield Unity.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Shield_Unity.png/revision/latest?cb=20220622095232",
+          "path": "assets/skill-icons/871/871_1_Shield_Unity.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Shield of Spirit.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Shield_of_Spirit.png/revision/latest?cb=20220622095245",
+          "path": "assets/skill-icons/871/871_2_Shield_of_Spirit.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Tortoise's Puissance.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Tortoise%27s_Puissance.png/revision/latest?cb=20220622095259",
+          "path": "assets/skill-icons/871/871_4_Tortoise_s_Puissance.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 88,
+      "name": "Masha",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Feral Swipe.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Feral_Swipe.png/revision/latest?cb=20260918142335",
+          "path": "assets/skill-icons/881/881_1_Feral_Swipe.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Claw Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Claw_Strike.png/revision/latest?cb=20260918142333",
+          "path": "assets/skill-icons/881/881_2_Claw_Strike.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Savage Maul.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Savage_Maul.png/revision/latest?cb=20260918142336",
+          "path": "assets/skill-icons/881/881_4_Savage_Maul.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 89,
+      "name": "Wanwan",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Swallow's Path.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Swallow%27s_Path.png/revision/latest?cb=20210809085051",
+          "path": "assets/skill-icons/891/891_1_Swallow_s_Path.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Needles in Flowers.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Needles_in_Flowers.png/revision/latest?cb=20210809085122",
+          "path": "assets/skill-icons/891/891_2_Needles_in_Flowers.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Crossbow of Tang.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Crossbow_of_Tang.png/revision/latest?cb=20191128203850",
+          "path": "assets/skill-icons/891/891_4_Crossbow_of_Tang.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 90,
+      "name": "Silvanna",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Cometic Lance 2.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Cometic_Lance_2.png/revision/latest?cb=20220220064643",
+          "path": "assets/skill-icons/901/901_1_Cometic_Lance_2.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Spiral Strangling.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Spiral_Strangling.png/revision/latest?cb=20210802142752",
+          "path": "assets/skill-icons/901/901_2_Spiral_Strangling.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Imperial Justice.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Imperial_Justice.png/revision/latest?cb=20210802142931",
+          "path": "assets/skill-icons/901/901_4_Imperial_Justice.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 91,
+      "name": "Cecilion",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Bat Impact.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Bat_Impact.png/revision/latest?cb=20210809091024",
+          "path": "assets/skill-icons/911/911_1_Bat_Impact.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Sanguine Claws.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Sanguine_Claws.png/revision/latest?cb=20210809091115",
+          "path": "assets/skill-icons/911/911_2_Sanguine_Claws.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Bats Feast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Bats_Feast.png/revision/latest?cb=20210809091208",
+          "path": "assets/skill-icons/911/911_4_Bats_Feast.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 92,
+      "name": "Carmilla",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Crimson Flower.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Crimson_Flower.png/revision/latest?cb=20241020152042",
+          "path": "assets/skill-icons/921/921_1_Crimson_Flower.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Bloodbath.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Bloodbath.png/revision/latest?cb=20241020152039",
+          "path": "assets/skill-icons/921/921_2_Bloodbath.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Curse of Blood.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Curse_of_Blood.png/revision/latest?cb=20241020152035",
+          "path": "assets/skill-icons/921/921_4_Curse_of_Blood.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 93,
+      "name": "Atlas",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Annihilate.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Annihilate.png/revision/latest?cb=20220410091648",
+          "path": "assets/skill-icons/931/931_1_Annihilate.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Perfect Match.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Perfect_Match.png/revision/latest?cb=20220410091559",
+          "path": "assets/skill-icons/931/931_2_Perfect_Match.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Fatal Links.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Fatal_Links.png/revision/latest?cb=20220410091537",
+          "path": "assets/skill-icons/931/931_4_Fatal_Links.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 94,
+      "name": "Popol and Kupa",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Bite 'em, Kupa!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Bite_%27em%2C_Kupa%21.png/revision/latest?cb=20210809083631",
+          "path": "assets/skill-icons/941/941_1_Bite_em_Kupa_.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Kupa, Help!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Kupa%2C_Help%21.png/revision/latest?cb=20210809083707",
+          "path": "assets/skill-icons/941/941_2_Kupa_Help_.png"
+        },
+        {
+          "slot": 3,
+          "label": "Skill 3",
+          "filename": "Popol's Surprise.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Popol%27s_Surprise.png/revision/latest?cb=20210809083754",
+          "path": "assets/skill-icons/941/941_3_Popol_s_Surprise.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "We Are Angry!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/We_Are_Angry%21.png/revision/latest?cb=20210905105738",
+          "path": "assets/skill-icons/941/941_4_We_Are_Angry_.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 95,
+      "name": "Yu Zhong",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Dragon Tail.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Dragon_Tail.png/revision/latest?cb=20240819053214",
+          "path": "assets/skill-icons/951/951_1_Dragon_Tail.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Soul Grip.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Soul_Grip.png/revision/latest?cb=20240819053317",
+          "path": "assets/skill-icons/951/951_2_Soul_Grip.png"
+        },
+        {
+          "slot": 3,
+          "label": "Skill 3",
+          "filename": "Furious Dive.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Furious_Dive.png/revision/latest?cb=20240819053607",
+          "path": "assets/skill-icons/951/951_3_Furious_Dive.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Black Dragon Form.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Black_Dragon_Form.png/revision/latest?cb=20240819054031",
+          "path": "assets/skill-icons/951/951_4_Black_Dragon_Form.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 96,
+      "name": "Luo Yi",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Dispersion.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Dispersion.png/revision/latest?cb=20260918024347",
+          "path": "assets/skill-icons/961/961_1_Dispersion.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Rotation.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Rotation.png/revision/latest?cb=20260918024503",
+          "path": "assets/skill-icons/961/961_2_Rotation.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Diversion.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Diversion.png/revision/latest?cb=20260918024603",
+          "path": "assets/skill-icons/961/961_4_Diversion.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 97,
+      "name": "Benedetta",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Phantom Slash.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Phantom_Slash.png/revision/latest?cb=20210808075102",
+          "path": "assets/skill-icons/971/971_1_Phantom_Slash.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "An Eye for An Eye.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/An_Eye_for_An_Eye.png/revision/latest?cb=20210808075205",
+          "path": "assets/skill-icons/971/971_2_An_Eye_for_An_Eye.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Alecto Final Blow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Alecto_Final_Blow.png/revision/latest?cb=20210808075249",
+          "path": "assets/skill-icons/971/971_4_Alecto_Final_Blow.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 98,
+      "name": "Khaleed",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Desert Tornado.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Desert_Tornado.png/revision/latest?cb=20210604062116",
+          "path": "assets/skill-icons/981/981_1_Desert_Tornado.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Quicksand Guard.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Quicksand_Guard.png/revision/latest?cb=20210604062039",
+          "path": "assets/skill-icons/981/981_2_Quicksand_Guard.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Raging Sandstorm.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Raging_Sandstorm.png/revision/latest?cb=20200719044626",
+          "path": "assets/skill-icons/981/981_4_Raging_Sandstorm.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 99,
+      "name": "Barats",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "So-Called Teamwork.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/So-Called_Teamwork.png/revision/latest?cb=20240104040431",
+          "path": "assets/skill-icons/991/991_1_So-Called_Teamwork.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Missile 'Expert'.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Missile_%27Expert%27.png/revision/latest?cb=20240104040506",
+          "path": "assets/skill-icons/991/991_2_Missile_Expert_.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Detona's Welcome.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/6f/Detona%27s_Welcome.png/revision/latest?cb=20240104040522",
+          "path": "assets/skill-icons/991/991_4_Detona_s_Welcome.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 100,
+      "name": "Brody",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Abyss Impact.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Abyss_Impact.png/revision/latest?cb=20260916131215",
+          "path": "assets/skill-icons/1001/1001_1_Abyss_Impact.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Corrosive Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Corrosive_Strike.png/revision/latest?cb=20260916131213",
+          "path": "assets/skill-icons/1001/1001_2_Corrosive_Strike.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Torn-Apart Memory.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Torn-Apart_Memory.png/revision/latest?cb=20260916131212",
+          "path": "assets/skill-icons/1001/1001_4_Torn-Apart_Memory.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 101,
+      "name": "Yve",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Void Blast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Void_Blast.png/revision/latest?cb=20210315234044",
+          "path": "assets/skill-icons/1011/1011_1_Void_Blast.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Void Crystal.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Void_Crystal.png/revision/latest?cb=20210315234111",
+          "path": "assets/skill-icons/1011/1011_2_Void_Crystal.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Real World Manipulation.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Real_World_Manipulation.png/revision/latest?cb=20210315234144",
+          "path": "assets/skill-icons/1011/1011_4_Real_World_Manipulation.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 102,
+      "name": "Mathilda",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Soul Bloom.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Soul_Bloom.png/revision/latest?cb=20210809085520",
+          "path": "assets/skill-icons/1021/1021_1_Soul_Bloom.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Guiding Wind.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Guiding_Wind.png/revision/latest?cb=20210809085631",
+          "path": "assets/skill-icons/1021/1021_2_Guiding_Wind.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Circling Eagle.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Circling_Eagle.png/revision/latest?cb=20210809085702",
+          "path": "assets/skill-icons/1021/1021_4_Circling_Eagle.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 103,
+      "name": "Paquito",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Heavy Left Punch.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Heavy_Left_Punch.png/revision/latest?cb=20210315233622",
+          "path": "assets/skill-icons/1031/1031_1_Heavy_Left_Punch.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Jab.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Jab.png/revision/latest?cb=20210315233645",
+          "path": "assets/skill-icons/1031/1031_2_Jab.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Knockout Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Knockout_Strike.png/revision/latest?cb=20210315233719",
+          "path": "assets/skill-icons/1031/1031_4_Knockout_Strike.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 104,
+      "name": "Gloo",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Slam, Slam.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Slam%2C_Slam.png/revision/latest?cb=20250827131633",
+          "path": "assets/skill-icons/1041/1041_1_Slam_Slam.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Spread, Spread.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Spread%2C_Spread.png/revision/latest?cb=20250827132038",
+          "path": "assets/skill-icons/1041/1041_2_Spread_Spread.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Grab, Grab.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Grab%2C_Grab.png/revision/latest?cb=20250827132205",
+          "path": "assets/skill-icons/1041/1041_4_Grab_Grab.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 105,
+      "name": "Beatrix",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Masterful Gunner.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Masterful_Gunner.png/revision/latest?cb=20210905120003",
+          "path": "assets/skill-icons/1051/1051_1_Masterful_Gunner.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Tactical Reposition.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Tactical_Reposition.png/revision/latest?cb=20210905120337",
+          "path": "assets/skill-icons/1051/1051_2_Tactical_Reposition.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Renner's Apathy.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Renner%27s_Apathy.png/revision/latest?cb=20210905120358",
+          "path": "assets/skill-icons/1051/1051_4_Renner_s_Apathy.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 106,
+      "name": "Phoveus",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Demonic Impact.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Demonic_Impact.png/revision/latest?cb=20240929060119",
+          "path": "assets/skill-icons/1061/1061_1_Demonic_Impact.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Dark Wave.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Dark_Wave.png/revision/latest?cb=20240929060137",
+          "path": "assets/skill-icons/1061/1061_2_Dark_Wave.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Infernal Pursuit.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Infernal_Pursuit.png/revision/latest?cb=20240802111808",
+          "path": "assets/skill-icons/1061/1061_4_Infernal_Pursuit.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 107,
+      "name": "Natan",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Superposition.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Superposition.png/revision/latest?cb=20210903170126",
+          "path": "assets/skill-icons/1071/1071_1_Superposition.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Interference!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Interference%21.png/revision/latest?cb=20210903170153",
+          "path": "assets/skill-icons/1071/1071_2_Interference_.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Entropy?.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Entropy%3F.png/revision/latest?cb=20210903170224",
+          "path": "assets/skill-icons/1071/1071_4_Entropy_.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 108,
+      "name": "Aulus",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Aulus, Charge!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Aulus%2C_Charge%21.png/revision/latest?cb=20260423100322",
+          "path": "assets/skill-icons/1081/1081_1_Aulus_Charge_.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "The Power of Axe.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/86/The_Power_of_Axe.png/revision/latest?cb=20260423100344",
+          "path": "assets/skill-icons/1081/1081_2_The_Power_of_Axe.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Cleaving Axe.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Cleaving_Axe.png/revision/latest?cb=20260423100403",
+          "path": "assets/skill-icons/1081/1081_4_Cleaving_Axe.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 109,
+      "name": "Aamon",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Soul Shards.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Soul_Shards.png/revision/latest?cb=20211203045706",
+          "path": "assets/skill-icons/1091/1091_1_Soul_Shards.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Slayer Shards.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Slayer_Shards.png/revision/latest?cb=20211203045819",
+          "path": "assets/skill-icons/1091/1091_2_Slayer_Shards.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Endless Shards.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/Endless_Shards.png/revision/latest?cb=20211203045950",
+          "path": "assets/skill-icons/1091/1091_4_Endless_Shards.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 110,
+      "name": "Valentina",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Shadow Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/46/Shadow_Strike.png/revision/latest?cb=20211202092839",
+          "path": "assets/skill-icons/1101/1101_1_Shadow_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Arcane Shade.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Arcane_Shade.png/revision/latest?cb=20211202092934",
+          "path": "assets/skill-icons/1101/1101_2_Arcane_Shade.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "I Am You.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/37/I_Am_You.png/revision/latest?cb=20211202093159",
+          "path": "assets/skill-icons/1101/1101_4_I_Am_You.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 111,
+      "name": "Edith",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Earth Shatter.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Earth_Shatter.png/revision/latest?cb=20211224061841",
+          "path": "assets/skill-icons/1111/1111_1_Earth_Shatter.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Onward.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Onward.png/revision/latest?cb=20211224061907",
+          "path": "assets/skill-icons/1111/1111_2_Onward.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Primal Wrath.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Primal_Wrath.png/revision/latest?cb=20211224061924",
+          "path": "assets/skill-icons/1111/1111_4_Primal_Wrath.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 112,
+      "name": "Floryn",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Sow.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Sow.png/revision/latest?cb=20210930073600",
+          "path": "assets/skill-icons/1121/1121_1_Sow.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Sprout.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Sprout.png/revision/latest?cb=20210930073631",
+          "path": "assets/skill-icons/1121/1121_2_Sprout.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Bloom.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Bloom.png/revision/latest?cb=20210930073642",
+          "path": "assets/skill-icons/1121/1121_4_Bloom.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 113,
+      "name": "Yin",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Charged Punch.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Charged_Punch.png/revision/latest?cb=20220108155643",
+          "path": "assets/skill-icons/1131/1131_1_Charged_Punch.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Instant Blast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Instant_Blast.png/revision/latest?cb=20220108155652",
+          "path": "assets/skill-icons/1131/1131_2_Instant_Blast.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "My Turn.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/My_Turn.png/revision/latest?cb=20220108155647",
+          "path": "assets/skill-icons/1131/1131_4_My_Turn.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 114,
+      "name": "Melissa",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Falling!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Falling%21.png/revision/latest?cb=20220311092948",
+          "path": "assets/skill-icons/1141/1141_1_Falling_.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Eyes on You!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Eyes_on_You%21.png/revision/latest?cb=20220311093026",
+          "path": "assets/skill-icons/1141/1141_2_Eyes_on_You_.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Go Away!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Go_Away%21.png/revision/latest?cb=20220311093058",
+          "path": "assets/skill-icons/1141/1141_4_Go_Away_.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 115,
+      "name": "Xavier",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Infinite Extension.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Infinite_Extension.png/revision/latest?cb=20220317095424",
+          "path": "assets/skill-icons/1151/1151_1_Infinite_Extension.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Mystic Field.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Mystic_Field.png/revision/latest?cb=20220317095438",
+          "path": "assets/skill-icons/1151/1151_2_Mystic_Field.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Dawning Light.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Dawning_Light.png/revision/latest?cb=20220317095409",
+          "path": "assets/skill-icons/1151/1151_4_Dawning_Light.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 116,
+      "name": "Julian",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Scythe.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Scythe.png/revision/latest?cb=20220525111831",
+          "path": "assets/skill-icons/1161/1161_1_Scythe.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Sword.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Sword.png/revision/latest?cb=20220525111243",
+          "path": "assets/skill-icons/1161/1161_2_Sword.png"
+        },
+        {
+          "slot": 3,
+          "label": "Skill 3",
+          "filename": "Chain.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Chain.png/revision/latest?cb=20220525112413",
+          "path": "assets/skill-icons/1161/1161_3_Chain.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 117,
+      "name": "Fredrinn",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Piercing Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Piercing_Strike.png/revision/latest?cb=20220807030157",
+          "path": "assets/skill-icons/1171/1171_1_Piercing_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Brave Assault.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Brave_Assault.png/revision/latest?cb=20220807030045",
+          "path": "assets/skill-icons/1171/1171_2_Brave_Assault.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate 2",
+          "filename": "Appraiser's Wrath.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Appraiser%27s_Wrath.png/revision/latest?cb=20220807030039",
+          "path": "assets/skill-icons/1171/1171_4_Appraiser_s_Wrath.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 118,
+      "name": "Joy",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Look, Leonin Crystal!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Look%2C_Leonin_Crystal%21.png/revision/latest?cb=20221111121055",
+          "path": "assets/skill-icons/1181/1181_1_Look_Leonin_Crystal_.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Meow, Rhythm of Joy!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Meow%2C_Rhythm_of_Joy%21.png/revision/latest?cb=20221111121101",
+          "path": "assets/skill-icons/1181/1181_2_Meow_Rhythm_of_Joy_.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Ha, Electrifying Beats!.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Ha%2C_Electrifying_Beats%21.png/revision/latest?cb=20221111121040",
+          "path": "assets/skill-icons/1181/1181_4_Ha_Electrifying_Beats_.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 119,
+      "name": "Novaria",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Astral Meteor.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Astral_Meteor.png/revision/latest?cb=20230420164231",
+          "path": "assets/skill-icons/1191/1191_1_Astral_Meteor.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Astral Recall.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Astral_Recall.png/revision/latest?cb=20230420164237",
+          "path": "assets/skill-icons/1191/1191_2_Astral_Recall.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Astral Echo.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Astral_Echo.png/revision/latest?cb=20230420164226",
+          "path": "assets/skill-icons/1191/1191_4_Astral_Echo.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 120,
+      "name": "Arlott",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Dauntless Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Dauntless_Strike.png/revision/latest?cb=20240605113357",
+          "path": "assets/skill-icons/1201/1201_1_Dauntless_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Vengeance (Arlott).png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Vengeance_%28Arlott%29.png/revision/latest?cb=20240605113419",
+          "path": "assets/skill-icons/1201/1201_2_Vengeance_Arlott_.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Final Slash.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Final_Slash.png/revision/latest?cb=20240605113435",
+          "path": "assets/skill-icons/1201/1201_4_Final_Slash.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 121,
+      "name": "Ixia",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Dual Beam.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Dual_Beam.png/revision/latest?cb=20231230023610",
+          "path": "assets/skill-icons/1211/1211_1_Dual_Beam.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Star Helix.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Star_Helix.png/revision/latest?cb=20231230023637",
+          "path": "assets/skill-icons/1211/1211_2_Star_Helix.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Full Barrage.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Full_Barrage.png/revision/latest?cb=20231230023654",
+          "path": "assets/skill-icons/1211/1211_4_Full_Barrage.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 122,
+      "name": "Nolan",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Expansion.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Expansion.png/revision/latest/scale-to-width-down/100?cb=20231110015656",
+          "path": "assets/skill-icons/1221/1221_1_Expansion.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Gauge.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Gauge.png/revision/latest/scale-to-width-down/100?cb=20231110015706",
+          "path": "assets/skill-icons/1221/1221_2_Gauge.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Fracture.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Fracture.png/revision/latest/scale-to-width-down/100?cb=20231110015726",
+          "path": "assets/skill-icons/1221/1221_4_Fracture.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 123,
+      "name": "Cici",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Yo-Yo Blitz.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Yo-Yo_Blitz.png/revision/latest?cb=20231223050624",
+          "path": "assets/skill-icons/1231/1231_1_Yo-Yo_Blitz.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Buoyant Bounce.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Buoyant_Bounce.png/revision/latest?cb=20231223050621",
+          "path": "assets/skill-icons/1231/1231_2_Buoyant_Bounce.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Curtain Call.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Curtain_Call.png/revision/latest?cb=20231223050623",
+          "path": "assets/skill-icons/1231/1231_4_Curtain_Call.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 124,
+      "name": "Chip",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Crash Course.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Crash_Course.png/revision/latest?cb=20240605110128",
+          "path": "assets/skill-icons/1241/1241_1_Crash_Course.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Overtime.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Overtime.png/revision/latest?cb=20240605110146",
+          "path": "assets/skill-icons/1241/1241_2_Overtime.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Shortcut.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Shortcut.png/revision/latest?cb=20240605110203",
+          "path": "assets/skill-icons/1241/1241_4_Shortcut.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 125,
+      "name": "Zhuxin",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Fluttering Grace.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Fluttering_Grace.png/revision/latest?cb=20240620224301",
+          "path": "assets/skill-icons/1251/1251_1_Fluttering_Grace.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Lantern Flare.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Lantern_Flare.png/revision/latest?cb=20240620224332",
+          "path": "assets/skill-icons/1251/1251_2_Lantern_Flare.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Crimson Beacon.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Crimson_Beacon.png/revision/latest?cb=20240620224352",
+          "path": "assets/skill-icons/1251/1251_4_Crimson_Beacon.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 126,
+      "name": "Suyou",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Blade Surge.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Blade_Surge.png/revision/latest?cb=20240921145922",
+          "path": "assets/skill-icons/1261/1261_1_Blade_Surge.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Soul Sever.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Soul_Sever.png/revision/latest?cb=20240921145921",
+          "path": "assets/skill-icons/1261/1261_2_Soul_Sever.png"
+        },
+        {
+          "slot": 3,
+          "label": "Skill 3",
+          "filename": "Evil Queller.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Evil_Queller.png/revision/latest?cb=20240921145920",
+          "path": "assets/skill-icons/1261/1261_3_Evil_Queller.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 127,
+      "name": "Lukas",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Flash Combo.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Flash_Combo.png/revision/latest?cb=20241221054546",
+          "path": "assets/skill-icons/1271/1271_1_Flash_Combo.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Flash Step.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Flash_Step.png/revision/latest?cb=20241221054548",
+          "path": "assets/skill-icons/1271/1271_2_Flash_Step.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Unleash the Beast.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Unleash_the_Beast.png/revision/latest?cb=20241221054551",
+          "path": "assets/skill-icons/1271/1271_4_Unleash_the_Beast.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 128,
+      "name": "Kalea",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Wavebreaker.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Wavebreaker.png/revision/latest?cb=20250222151011",
+          "path": "assets/skill-icons/1281/1281_1_Wavebreaker.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Tidal Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Tidal_Strike.png/revision/latest?cb=20250222151009",
+          "path": "assets/skill-icons/1281/1281_2_Tidal_Strike.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Tsunami Slam.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Tsunami_Slam.png/revision/latest?cb=20250222151010",
+          "path": "assets/skill-icons/1281/1281_4_Tsunami_Slam.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 129,
+      "name": "Zetian",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Phoenix Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Phoenix_Strike.png/revision/latest?cb=20250118135551",
+          "path": "assets/skill-icons/1291/1291_1_Phoenix_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Phoenix Descent.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Phoenix_Descent.png/revision/latest?cb=20250118135552",
+          "path": "assets/skill-icons/1291/1291_2_Phoenix_Descent.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Fury of the Phoenix.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Fury_of_the_Phoenix.png/revision/latest?cb=20250118135550",
+          "path": "assets/skill-icons/1291/1291_4_Fury_of_the_Phoenix.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 130,
+      "name": "Obsidia",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Abyssal Bone Needle.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Abyssal_Bone_Needle.png/revision/latest?cb=20250918010947",
+          "path": "assets/skill-icons/1301/1301_1_Abyssal_Bone_Needle.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Phantom Shadowmeld.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Phantom_Shadowmeld.png/revision/latest?cb=20250918011152",
+          "path": "assets/skill-icons/1301/1301_2_Phantom_Shadowmeld.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Hunt of Bone.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hunt_of_Bone.png/revision/latest?cb=20250918011139",
+          "path": "assets/skill-icons/1301/1301_4_Hunt_of_Bone.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 131,
+      "name": "Sora",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Sundering Strike.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Sundering_Strike.png/revision/latest?cb=20251218013739",
+          "path": "assets/skill-icons/1311/1311_1_Sundering_Strike.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Windstride.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Windstride.png/revision/latest?cb=20251218013738",
+          "path": "assets/skill-icons/1311/1311_2_Windstride.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Shifting Skies.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Shifting_Skies.png/revision/latest?cb=20251218013737",
+          "path": "assets/skill-icons/1311/1311_4_Shifting_Skies.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 132,
+      "name": "Marcel",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Framed Moment.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Framed_Moment.png/revision/latest?cb=20260311075430",
+          "path": "assets/skill-icons/1321/1321_1_Framed_Moment.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Tracking Shot.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Tracking_Shot.png/revision/latest?cb=20260311075427",
+          "path": "assets/skill-icons/1321/1321_2_Tracking_Shot.png"
+        },
+        {
+          "slot": 4,
+          "label": "Ultimate",
+          "filename": "Golden Hour.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Golden_Hour.png/revision/latest?cb=20260311075423",
+          "path": "assets/skill-icons/1321/1321_4_Golden_Hour.png"
+        }
+      ]
+    },
+    {
+      "hero_id": 133,
+      "name": "Hirara",
+      "skills": [
+        {
+          "slot": 1,
+          "label": "Skill 1",
+          "filename": "Meisen-e.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Meisen-e.png/revision/latest?cb=20260618092851",
+          "path": "assets/skill-icons/1331/1331_1_Meisen-e.png"
+        },
+        {
+          "slot": 2,
+          "label": "Skill 2",
+          "filename": "Kaerazu.png",
+          "url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Kaerazu.png/revision/latest?cb=20260618092849",
+          "path": "assets/skill-icons/1331/1331_2_Kaerazu.png"
+        }
+      ]
+    }
+  ]
+}
