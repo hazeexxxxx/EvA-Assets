@@ -1,6 +1,6 @@
 # Rank icon sources
 
-These PNGs are local copies of rank emblems and the rank-star image hosted by the Mobile Legends Wiki on Fandom. Fandom's CDN served WebP responses; they were converted to PNG for compatibility with EvA-Client's image decoder. The artwork remains the property of its respective rights holders.
+These PNGs are local copies of rank emblems and the rank-star image hosted by the Mobile Legends Wiki on Fandom. Fandom's CDN served WebP responses; they were converted to PNG for compatibility with EvA-Client's image decoder. For consistent Room Info sizing, transparent margins are trimmed and each emblem is resized with its aspect ratio preserved, then centered on a 512×512 transparent canvas with a 408-pixel visible width. The star image remains unchanged. The artwork remains the property of its respective rights holders.
 
 | Asset | Wiki file page | Original image URL |
 |---|---|---|
