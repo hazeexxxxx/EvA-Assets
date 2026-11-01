@@ -568,5 +568,18 @@
     "20100": "spell-icons/20100_Flicker.png",
     "20160": "spell-icons/20160_Arrival.png",
     "20190": "spell-icons/20190_Vengeance.png"
+  },
+  "ranks": {
+    "warrior": "rank-icons/warrior.png",
+    "elite": "rank-icons/elite.png",
+    "master": "rank-icons/master.png",
+    "grandmaster": "rank-icons/grandmaster.png",
+    "epic": "rank-icons/epic.png",
+    "legend": "rank-icons/legend.png",
+    "mythic": "rank-icons/mythic.png",
+    "mythical_honor": "rank-icons/mythical_honor.png",
+    "mythical_glory": "rank-icons/mythical_glory.png",
+    "mythical_immortal": "rank-icons/mythical_immortal.png",
+    "star": "rank-icons/star.png"
   }
 }
